@@ -19,7 +19,7 @@ https://christopherlucas.org/files/PDFs/text_comp_politics.pdf
 Causal Inference: Mixtape (Scott Cunningham): https://mixtape.scunning.com/01-introduction
 Causal Inference: The Sessions (Scott Cunningham et. al): https://mixtape.scunning.com/mixtape_sessions 
 
-Random Controled Trials (RCT): https://erc.undp.org/methods-center/methods/evaluation-methods/randomized-control-trial-rct 
+Randomized Controlled Trials (RCT): https://erc.undp.org/methods-center/methods/evaluation-methods/randomized-control-trial-rct 
 
 # Api´s 
 
