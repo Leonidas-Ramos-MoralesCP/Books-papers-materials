@@ -17,7 +17,10 @@ https://vanatteveldt.com/files/atteveldt_ore_automatictextanalysis.pdf
 https://christopherlucas.org/files/PDFs/text_comp_politics.pdf 
 
 Causal Inference: Mixtape (Scott Cunningham): https://mixtape.scunning.com/01-introduction
+
 Causal Inference: The Sessions (Scott Cunningham et. al): https://mixtape.scunning.com/mixtape_sessions 
+
+Inferencia causal para valientes: https://matheusfacure.github.io/python-causality-handbook/landing-page.html 
 
 Randomized Controlled Trials (RCT): https://erc.undp.org/methods-center/methods/evaluation-methods/randomized-control-trial-rct 
 
