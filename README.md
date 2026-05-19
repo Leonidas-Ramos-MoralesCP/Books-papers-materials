@@ -56,6 +56,11 @@ Course of Google: https://www.coursera.org/learn/python-crash-course
 Python intermedio:
 https://micodara.com/
 
+# Paquetes de Python
+
+https://scikit-learn.org/stable/
+
+
 # Materials on Applications in Political & Social Analysis
 
 Political Analysis: Major political science journals applying AI, machine learning, and advanced methodology: 
